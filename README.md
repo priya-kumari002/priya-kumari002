@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/priya-yadav-46017a24b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 
 - 😄 Pronouns: priya Kumari 
-- ⚡ Fun fact: i am very lovely person 
+- ⚡ Fun fact: i am a Associate Software Engineer Alt Nesting Probe Private Limite
 
 <!---
 priya-kumari002/priya-kumari002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
